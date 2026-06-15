@@ -13,10 +13,16 @@ Here i have displayed simple box model
 <img width="432" height="267" alt="image" src="https://github.com/user-attachments/assets/d786a0fc-1a63-4a3b-919f-043a956a7451" />
 
 
-- `border: 3px solid rgb(166, 28, 28);
-  border-radius: 20px;
-  background-color: rgb(193, 121, 28);
-  margin-top: 20px 0px 0px 60px;
-  padding: 50px;`
+- `border: 3px solid rgb(166, 28, 28);`
+- `border-radius: 20px;`
+- `background-color: rgb(193, 121, 28);`
+- `margin: 20px ;`
+- `padding: 50px;`
 
   
+<img width="1907" height="742" alt="image" src="https://github.com/user-attachments/assets/268c25e2-c446-4392-a55a-ba293d1b60e4" />
+
+#### As PRTSC here shows:
+- There is a margin of 20px(pixels)
+- Border.
+- The Padding of 50px all round
