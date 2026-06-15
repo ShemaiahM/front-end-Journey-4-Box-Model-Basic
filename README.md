@@ -4,7 +4,7 @@ Here i have displayed simple box model
 
 <img width="1902" height="985" alt="simple box method" src="https://github.com/user-attachments/assets/75a43066-32f5-4a86-91f1-afda3fee8185" />
 
-## Here i have created a simple box method. 
+## Here i have created a simple box model. 
 - conetent(the object) so the text or could be an iamge or video.
 - padding the space inside the element and warpped around the content(object).
 - border: the shell that wraps around the content and padding.
